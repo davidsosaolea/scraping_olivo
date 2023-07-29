@@ -1,1 +1,8 @@
 # scraping_olivo
+En la economía digital de hoy en día, los datos se han convertido en una fuerza impulsora para el crecimiento y desarrollo de las empresas. Los datos relevantes y precisos pueden ayudar a las empresas a tomar decisiones informadas, y el Web Scraping ha surgido como una estrategia efectiva para adquirir estos datos. En este proyecto, nuestro objetivo es emplear técnicas de web scraping para extraer información útil de una tienda en línea.
+
+Nuestro enfoque será recolectar los nombres de los artículos, los precios e imágenes de los productos de la tienda. Estos datos son fundamentales para el análisis de precios, la investigación de mercado, la estrategia de inventario y más. Al recopilar estos datos, podríamos obtener una visión más clara del posicionamiento de los productos en el mercado y hacer ajustes estratégicos en consecuencia.
+
+Además, los datos recogidos también pueden ser utilizados para una variedad de propósitos analíticos adicionales, tales como el análisis de tendencias de ventas, la identificación de patrones de consumo y la elaboración de estrategias de marketing efectivas.
+
+Este proyecto nos permitirá demostrar las posibilidades de la extracción de datos en la web y su potencial para transformar las operaciones y la toma de decisiones empresariales. Nuestro enfoque sistemático y basado en la tecnología nos permitirá recolectar, procesar y analizar datos a gran escala, superando las limitaciones tradicionales y abriendo nuevas vías de oportunidades comerciales.
